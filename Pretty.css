@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(247, 174, 216);
+    color: rgb(030, 45, 22);
+    font-family:'Lucidia Console', 'monospace', sans-serif;
+    
+}
+
+h1.title{
+    text-transform: uppercase;
+    font-size: 20pt;
+    font-weight: bold;
+    color: rgb(20, 19, 19);
+    font-family: Helvetica, "Lucidia Console", monospace;
+    background-color: rgb(248, 126, 197);
+    border-style: dashed;
+}
+
+h2{
+    font-size: 15pt;
+    color: rgb(46, 42, 42);
+    border-style: none none solid none;
+}
+
+p{
+    padding-left: 2em;
+    text-align: justify;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+update{
+    background-color: antiquewhite;
+    font-size: 15pt;
+}
+
